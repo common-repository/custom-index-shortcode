@@ -1,0 +1,29 @@
+/*BUTTON*/
+i.mce-i-customindexshortcode-icon {
+	background-image: url(http://www.teuteca.com/wp-content/plugins/custom-index-shortcode/tree1.jpg);
+}
+/*LABELS*/
+#title_label {
+	font-size:12px;
+}
+#titlesize_label {
+	font-size:12px;
+}
+#id_label {
+	font-size:12px;
+}
+#depth_label {
+	font-size:12px;
+}
+#author_label {
+	font-size:12px;
+}
+#orderby_label {
+	font-size:12px;
+}
+#order_label {
+	font-size:12px;
+}
+#list_label {
+	font-size:12px;
+}
